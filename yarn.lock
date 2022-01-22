@@ -6075,15 +6075,6 @@ gatsby-graphiql-explorer@^1.14.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-image@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.3.0.tgz#2efea64da55011710cd118ec0f6666a323e5be75"
-  integrity sha512-jO0wjMUbXNpvc2jItZ4YFFrXAhJBie9UvPjjgB43r22hpILMiVDpfLCwRLIXetgehOfrMkPtKF+3IbaK04pfVg==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    object-fit-images "^3.2.4"
-    prop-types "^15.7.2"
-
 gatsby-legacy-polyfills@^1.14.0:
   version "1.14.0"
   resolved "https://registry.yarnpkg.com/gatsby-legacy-polyfills/-/gatsby-legacy-polyfills-1.14.0.tgz#b633f8d5433a1545b09f736d89ee7a11371dde7a"
@@ -9452,9 +9443,9 @@ mute-stream@0.0.8, mute-stream@~0.0.4:
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
 nanoid@^3.1.23, nanoid@^3.1.30:
-  version "3.1.30"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.30.tgz#63f93cc548d2a113dc5dfbc63bfa09e2b9b64362"
-  integrity sha512-zJpuPDwOv8D2zq2WRoMe1HsfZthVewpel9CAvTfc/2mBD1uUT/agc5f7GHGWXlYkFvi1mVxe4IjvP2HNrop7nQ==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -9699,11 +9690,6 @@ object-copy@^0.1.0:
     copy-descriptor "^0.1.0"
     define-property "^0.2.5"
     kind-of "^3.0.3"
-
-object-fit-images@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/object-fit-images/-/object-fit-images-3.2.4.tgz#6c299d38fdf207746e5d2d46c2877f6f25d15b52"
-  integrity sha512-G+7LzpYfTfqUyrZlfrou/PLLLAPNC52FTy5y1CBywX+1/FkxIloOyQXBmZ3Zxa2AWO+lMF0JTuvqbr7G5e5CWg==
 
 object-inspect@^1.11.0, object-inspect@^1.9.0:
   version "1.11.0"
